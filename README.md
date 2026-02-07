@@ -27,13 +27,13 @@ Martin Kleppmann & Chris Riccomini의 "Designing Data-Intensive Applications" 2n
 ## 진행 상황
 
 | Chapter | Status |
-|---------|--------|
+|---------|-------|
 | Ch 1 | ✅ |
 | Ch 2 | ✅ |
 | Ch 3 | ✅ |
 | Ch 4 | ✅ |
-| Ch 5 | ⬜ |
-| Ch 6 | ⬜ |
+| Ch 5 | ✅ |
+| Ch 6 | 🟨 |
 | Ch 7 | ⬜ |
 | Ch 8 | ⬜ |
 | Ch 9 | ⬜ |
